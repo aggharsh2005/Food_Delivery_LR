@@ -44,12 +44,12 @@ pip install -r requirements.txt
 python food_delivery.py
 
 ## Analysis and Model
-# Data Cleaning: Null values have been handled.
+ Data Cleaning: Null values have been handled.
 
-# Feature Scaling: Distance and Delivery_Time have been scaled using MinMaxScaler.
+Feature Scaling: Distance and Delivery_Time have been scaled using MinMaxScaler.
 
-# Label Encoding: Categorical features like Order_Priority, Weather_Conditions, etc., have been converted to a numerical format using LabelEncoder.
+ Label Encoding: Categorical features like Order_Priority, Weather_Conditions, etc., have been converted to a numerical format using LabelEncoder.
 
-# Descriptive Statistics: The mean, median, mode, and variance of the data have been calculated.
+ Descriptive Statistics: The mean, median, mode, and variance of the data have been calculated.
 
-# Correlation Analysis: The correlation between features and Delivery_Time has been analyzed.
+ Correlation Analysis: The correlation between features and Delivery_Time has been analyzed.
